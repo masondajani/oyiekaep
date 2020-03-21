@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohngahcei.byke.me/sitemap.xml
